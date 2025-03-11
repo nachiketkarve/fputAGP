@@ -1,0 +1,9 @@
+{
+    "saveFolder": "./",
+    "model": "alpha",
+    "deltaT": 0.1,
+    "dataPoints": 10000,
+    "tmax": 10000000.0,
+    "averages": 100,
+    "integrator": "rk4"
+}
